@@ -1,0 +1,17 @@
+{
+    "poderes": [
+        {
+            "codigo": 9384,
+            "poder": "Super fuerza"
+        },
+        {
+            "codigo": 935453484,
+            "poder": "rayos x"
+        },
+        {
+            "codigo": 333,
+            "poder": "Super velocidad"
+        }
+    ],
+    "total": 3
+}
